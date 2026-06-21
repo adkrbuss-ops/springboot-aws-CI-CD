@@ -22,7 +22,7 @@ The pipeline automatically:
 > Add the generated architecture image to your repository and update the path below.
 
 ```markdown
-![AWS CodePipeline Flow](images/aws-codepipeline-flowchart.png)
+![AWS CodePipeline Flow](image/aws-codepipeline-flowchart.png)
 ```
 
 ### Deployment Flow
