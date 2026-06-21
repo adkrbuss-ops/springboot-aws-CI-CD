@@ -19,8 +19,6 @@ The pipeline automatically:
 
 ### CI/CD Flow Diagram
 
-> Add the generated architecture image to your repository and update the path below.
-
 ![AWS CodePipeline Flow](image/aws-codepipeline-flowchart.png)
 
 
